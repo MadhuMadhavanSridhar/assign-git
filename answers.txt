@@ -1,0 +1,7 @@
+A .gitignore is a text file which contains the pattern for files/directories to ignore.The gitignore file for java should include the package files like *.jar,*.war,*.zip etc, mobile tools for java like .mtj.tmp/, compiled class files like *.class and log file like *.log.
+
+A fast-forward merge can be done when there is a linear path from the current branch tip to the target branch.
+
+We should have different branches in git because these serves as a snapshots before the changes in the development proces. Developers can create a new branch when they want to add a new feature to the project under development.
+
+For a project we usually have a single git repository.
